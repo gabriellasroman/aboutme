@@ -13,12 +13,12 @@ body {
 h1 {
   font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   text-align: center;  
-  font-size: 40 px;
+  font-size: 45 px;
 }
 
 h2 {
 	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-	font-size: 25px;
+	font-size: 28px;
 }
 
 h3 {
@@ -29,5 +29,5 @@ h3 {
 p {
   font-family: "Calibri", sans-serif;
   text-align: center;
-  font-size: 16px;
+  font-size: 18px;
 }
